@@ -9,7 +9,7 @@
 		<meta name="revised" content="2021/12/15">
 
 		<link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Eo_circle_purple_letter-k.svg/512px-Eo_circle_purple_letter-k.svg.png" type="image/png">
-		<link rel="stylesheet" href="css/mystyle.css">
+		<link rel="stylesheet" href="2QProjStrontiumTenazas/css/mystyle.css">
 
         
 
